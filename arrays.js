@@ -4,4 +4,3 @@ var chocolateBars = [
   "kitkat",
   "skittles"];
 
-function addElementToBegginningOfArray.unshift(array, element)
